@@ -84,3 +84,13 @@ MIT — see [LICENSE](LICENSE). Copyright (c) 2026 davidlee888686.
 ## Maintainers
 
 [davidlee888686](https://github.com/davidlee888686)
+
+## Contact, support and custom work
+
+- **Bugs and questions:** open an issue at https://github.com/davidlee888686/serenie-cli/issues
+- **Ideas, real-world use cases and collaboration:** start a thread in Discussions at https://github.com/davidlee888686/serenie-cli/discussions
+- **Custom builds, business applications or partnerships:** open an issue titled `Work with me` and I will reply there.
+- More projects: https://github.com/davidlee888686
+
+Serenie is a free starting point. More tools are on the way.
+
