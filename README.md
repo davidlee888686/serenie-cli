@@ -27,7 +27,7 @@ It is a command-line developer tool, not a chat assistant. It is also not **Seri
 
 ```bash
 git clone https://github.com/davidlee888686/serenie-cli.git
-cd Serenie
+cd serenie-cli
 python -m venv .venv
 ```
 
