@@ -1,1 +1,0 @@
-Build, lint, types, tests, docs, conformance all pass.

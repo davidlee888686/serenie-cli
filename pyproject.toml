@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "serenie"
 version = "0.1.0"
-description = "A sovereign, deterministic engineering execution substrate"
+description = "A local, deterministic engineering record and ledger tool"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [

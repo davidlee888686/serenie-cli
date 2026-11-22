@@ -2,7 +2,7 @@
 
 Serenie is a local, deterministic engineering tool. You give it a source or specification file, it checks and canonicalizes the content, assigns a content-addressed identity, and appends a record to a hash-chained evidence ledger. You can verify that ledger later and export it as JSON.
 
-It is a command-line developer tool, not a chat assistant. It is also not **Serien**, the separate recovery toolkit.
+It is a command-line developer tool, not a chat assistant.
 
 [![CI](https://github.com/davidlee888686/serenie-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/davidlee888686/serenie-cli/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)

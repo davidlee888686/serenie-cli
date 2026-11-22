@@ -1,1 +1,0 @@
-Execute release validation and package artifacts.

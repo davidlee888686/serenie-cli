@@ -1,1 +1,0 @@
-Read FOUNDATION.md first. Execute ONE prompt at a time. STOP after each prompt and wait for approval.

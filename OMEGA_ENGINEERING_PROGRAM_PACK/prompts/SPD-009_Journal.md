@@ -1,1 +1,0 @@
-Implement journal module. STOP.

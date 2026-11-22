@@ -1,1 +1,0 @@
-Implement projection module. STOP.

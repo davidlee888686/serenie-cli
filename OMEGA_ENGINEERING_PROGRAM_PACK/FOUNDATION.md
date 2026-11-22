@@ -1,1 +1,0 @@
-Mission: Build a deterministic engineering substrate. Core: Artifact, Contract, Semantic Transformation, Claim, Evidence, Evidence Journal, Projection. Evidence before speculation.

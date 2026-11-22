@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-Serenie Substrate is a sovereign, deterministic engineering execution substrate designed for reliable, auditable task execution at scale. This report documents proven capabilities, performance benchmarks, and stress test results.
+Serenie Substrate is a local, deterministic engineering execution substrate designed for reliable, auditable task execution at scale. This report documents proven capabilities, performance benchmarks, and stress test results.
 
 ---
 

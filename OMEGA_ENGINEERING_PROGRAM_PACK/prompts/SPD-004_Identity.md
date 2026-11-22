@@ -1,1 +1,0 @@
-Implement identity module. STOP.

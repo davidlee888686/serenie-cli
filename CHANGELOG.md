@@ -27,11 +27,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `LICENSE.CHOOSE.md` (license has been chosen)
 - Historical and local-only paths untracked for a future public tree: `serenie_v3_0/`, `.gemini-serenie/`, `.pytest-cache/`, `ops/reports/PHASE_00_REPORT.json`, `ops/cache/metadata.db`, `OWNER_SHIP_CHECKLIST.md`
 
+## [Unreleased] - 2026-11-22
+
+### Removed
+- Leftover files from unrelated projects: the engineering program pack folder, a skill-registry manifest, track/OS bootstrap scripts, stale v3.0 release scripts, and speculative JSON spec files under `docs/`. None were used by the CLI or its tests.
+
+### Changed
+- Wording cleanup in README, release notes, capability report, owner manifest and package description.
+
 ## [0.1.0] - 2026-09-27
 
 ### Added
 - Owner ship checklist (`OWNER_SHIP_CHECKLIST.md`)
-- Local Serenie extensions: OMEGA engineering program pack, package CLI/standard volumes, expanded integration tests (37 passing)
+- Package CLI/standard volumes, expanded integration tests (37 passing)
 
 ### Fixed
 - Empty `authors.email` in `pyproject.toml` so editable install metadata is accepted by setuptools
@@ -40,7 +48,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Verified
 - Pytest **37/37**
 - `serenie_cli.py verify` — ledger hash chain unbroken
-- Private GitHub `main` sync for `davidlee888686/Serenie`
 
 ## [0.1.0-audit] - 2026-08-04
 

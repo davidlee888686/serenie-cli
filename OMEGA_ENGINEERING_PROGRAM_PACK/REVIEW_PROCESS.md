@@ -1,1 +1,0 @@
-Stop after every directive.

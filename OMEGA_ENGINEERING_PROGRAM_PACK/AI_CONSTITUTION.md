@@ -1,1 +1,0 @@
-No architecture redesign. One milestone at a time. No placeholders.

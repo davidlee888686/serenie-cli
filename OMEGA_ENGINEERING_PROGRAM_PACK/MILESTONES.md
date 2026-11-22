@@ -1,1 +1,0 @@
-Each milestone ends with reports and approval.
