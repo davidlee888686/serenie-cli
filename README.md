@@ -94,3 +94,16 @@ MIT — see [LICENSE](LICENSE). Copyright (c) 2026 davidlee888686.
 
 Serenie is a free starting point. More tools are on the way.
 
+
+## Beta testers wanted
+
+Have a faster PC? Help test Serenie and upcoming tools (including the Aria desktop assistant) and share speed and accuracy results in Discussions: https://github.com/davidlee888686/serenie-cli/discussions
+
+## Support
+
+Donations go toward a faster development PC to build better, faster tools. Support link coming soon.
+
+## Coming soon: Aria
+
+A private, local-first desktop assistant. Join the waitlist in Discussions.
+
