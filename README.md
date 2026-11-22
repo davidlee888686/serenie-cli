@@ -91,6 +91,7 @@ MIT — see [LICENSE](LICENSE). Copyright (c) 2026 davidlee888686.
 - **Ideas, real-world use cases and collaboration:** start a thread in Discussions at https://github.com/davidlee888686/serenie-cli/discussions
 - **Custom builds, business applications or partnerships:** open an issue titled `Work with me` and I will reply there.
 - More projects: https://github.com/davidlee888686
+- Sibling tool: [SpaceKeep](https://github.com/davidlee888686/spacekeep), a free, offline duplicate-copy finder for Windows that never deletes
 
 Serenie is a free starting point. More tools are on the way.
 
@@ -101,9 +102,9 @@ Have a faster PC? Help test Serenie and upcoming tools (including the Aria deskt
 
 ## Support
 
-Donations go toward a faster development PC to build better, faster tools. Support link coming soon.
+Free and MIT licensed. If it helps you, an optional tip goes toward a faster PC for development: [Venmo](https://venmo.com/u/David-CAMPBELL-967)
 
 ## Coming soon: Aria
 
-A private, local-first desktop assistant. Join the waitlist in Discussions.
+A private, local-first desktop assistant whose rule is to never make things up. Free beta sign-up: [Aria free beta: sign up here](https://github.com/davidlee888686/serenie-cli/discussions/6)
 
