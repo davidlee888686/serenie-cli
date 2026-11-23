@@ -108,3 +108,9 @@ Free and MIT licensed. If it helps you, an optional tip goes toward a faster PC 
 
 A private, local-first desktop assistant whose rule is to never make things up. Free beta sign-up: [Aria free beta: sign up here](https://github.com/davidlee888686/serenie-cli/discussions/6)
 
+## More from the author
+
+Guides and tools: [davidlee678.gumroad.com](https://davidlee678.gumroad.com)
+
+- [Fix-It Guide Bundle](https://davidlee678.gumroad.com/l/ghtlm) ($59)
+- [Run Local AI on a Cheap Windows PC](https://davidlee678.gumroad.com/l/qjqtl) ($19)
